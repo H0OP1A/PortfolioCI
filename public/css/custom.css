@@ -1,0 +1,19 @@
+/*!
+  * Item: Kitzu
+  * Description: Personal Portfolio Template
+  * Author/Developer: Exill
+  * Author/Developer URL: https://themeforest.net/user/exill
+  * Version: v2.0.0
+  * License: Themeforest Standard Licenses: https://themeforest.net/licenses
+  */
+  .center-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  .bar-section{
+    border-bottom: 2px solid #333; /* Atur warna dan ketebalan garis sesuai kebutuhan Anda */
+    padding-bottom: 10px; /* Atur jarak antara teks dan garis */
+    display: inline-block;
+}
